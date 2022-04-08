@@ -106,17 +106,17 @@ export default function Home() {
             </div>
 
             <div className='bg-[#242c38] rounded-lg p-5'>
-              <h5 className='text-xl font-semibold mb-3'>Twitter Clone</h5>
+              <h5 className='text-xl font-semibold mb-3'>Disney Plus Build</h5>
               <p className='text-lg mb-5'>
-                A twitter clone with authentication and tweet functionality.
+                A disney+ clone that uses the TMDB api.
               </p>
               <div className='flex space-x-6'>
                 <button className='bg-[#1f252e] p-2 rounded-xl hover:bg-[#1e232b]'>
-                  <a target="_blank" href="https://github.com/kryptcode/twitter-clone">View Code</a>
+                  <a target="_blank" href="https://github.com/kryptcode/disney-plus-build">View Code</a>
                 </button>
 
                 <button className='bg-[#1f252e] p-2 rounded-xl hover:bg-[#1e232b]'>
-                  <a target="_blank" href="https://twitter-clone-z.vercel.app">View Project</a>
+                  <a target="_blank" href="https://disney-plus-psi.vercel.app">View Project</a>
                 </button>
               </div>
             </div>
