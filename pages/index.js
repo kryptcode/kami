@@ -68,9 +68,6 @@ export default function Home() {
               <p className='text-gray-300'>
                 Firebase
               </p>
-              <p className='text-gray-300'>
-                MongoDB
-              </p>
             </div>
 
             <div className='space-y-2'>
