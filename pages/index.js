@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="">
       <Head>
-        <title>Adeyombo Adekoyejo | Web Developer</title>
+        <title> Adekoyejo | Web Developer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -19,7 +19,7 @@ export default function Home() {
               Hello! I'm
             </h5>
             <h2 className='text-6xl font-semibold mb-3'>
-              Adeyombo Adekoyejo,
+              Adekoyejo,
             </h2>
             <h6 className='text-4xl mb-5 text-gray-300'>
               and I develop web apps.
