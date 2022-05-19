@@ -6,6 +6,8 @@
 
 @layer base {
     body {
-        @apply font-main bg-[#1f252e] text-white ;
+        @apply font-main bg-black text-white ;
     }
 }
+
+/* [#1f252e] */

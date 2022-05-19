@@ -4,6 +4,47 @@
         "name": "Github Users",
         "code_url": "https://github.com/kryptcode/github-users",
         "live_project": "https://github-users-inky.vercel.app/",
-        "img": "./images/git-users.png"
+        "img": "https://i.ibb.co/K9jCS7H/Screenshot-2022-05-19-at-15-01-33-Github-Users-App.png",
+        "technologies": ["Nextjs", "TailwindCSS"]
+    },
+    {
+        "id": 2,
+        "name": "Audiophile",
+        "code_url": "github-users",
+        "live_project": "https://audiophile-ivory.vercel.app",
+        "img": "https://i.ibb.co/85QvXFs/Screenshot-2022-05-19-at-14-54-23-Audiophile-Home.png",
+        "technologies": ["Nextjs", "TailwindCSS", "Context API"]
+    },
+    {
+        "id": 3,
+        "name": "Vinnyl",
+        "code_url": "https://github.com/kryptcode/github-users",
+        "live_project": "https://vinnyl.vercel.app/",
+        "img": "https://i.ibb.co/jL7FKSM/Screenshot-2022-05-19-at-14-51-09-Vinnyl.png",
+        "technologies": ["NextJs", "TailwindCSS", "Firebase"]
+    },
+    {
+        "id": 4,
+        "name": "Google Clone",
+        "code_url": "https://github.com/kryptcode/github-users",
+        "live_project": "https://google-search-je2ewr8em-kryptcode.vercel.app/",
+        "img": "https://i.ibb.co/Q8Y1xgd/Screenshot-2022-05-19-at-15-02-25-dogs-Google-Search.png",
+        "technologies": ["NextJs", "TailwindCSS"]
+    },
+    {
+        "id": 5,
+        "name": "Airbnb Clone",
+        "code_url": "https://github.com/kryptcode/github-users",
+        "live_project": "https://airbnb-clone-zeta-nine.vercel.app/",
+        "img": "https://i.ibb.co/Kq7DfT2/Screenshot-2022-05-19-at-15-11-03-Airbnb-Clone.png",
+        "technologies": ["NextJs", "TailwindCSS"]
+    },
+    {
+        "id": 6,
+        "name": "Disney+",
+        "code_url": "https://github.com/kryptcode/github-users",
+        "live_project": "https://disney-plus-psi.vercel.app",
+        "img": "https://i.ibb.co/XYCzcbn/Screenshot-2022-05-19-at-14-56-40-Disney.png",
+        "technologies": ["NextJs", "TailwindCSS"]
     }
 ]
