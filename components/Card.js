@@ -16,7 +16,7 @@ const Card = ({ item }) => {
           <div className='space-x-4 text-sm mb-4'>
             {
               technologies.map(item => (
-                <button className='py-1 px-3 bg-[#7ee787] text-black rounded-md cursor-default'>
+                <button className='py-1 px-3 bg-[#7ee787] text-black rounded-md'>
                   {item}
                 </button>
               ))
