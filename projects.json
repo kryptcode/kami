@@ -45,6 +45,6 @@
         "code_url": "https://github.com/kryptcode/github-users",
         "live_project": "https://disney-plus-psi.vercel.app",
         "img": "https://i.ibb.co/XYCzcbn/Screenshot-2022-05-19-at-14-56-40-Disney.png",
-        "technologies": ["NextJs", "TailwindCSS"]
+        "technologies": ["NextJs", "TailwindCSS", "TMDB API"]
     }
 ]
