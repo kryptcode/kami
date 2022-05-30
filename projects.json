@@ -45,6 +45,15 @@
         "code_url": "https://github.com/kryptcode/github-users",
         "live_project": "https://disney-plus-psi.vercel.app",
         "img": "https://i.ibb.co/XYCzcbn/Screenshot-2022-05-19-at-14-56-40-Disney.png",
-        "technologies": ["NextJs", "TailwindCSS", "TMDB API"]
-    }
+        "technologies": ["NextJs", "TailwindCSS"]
+    },
+    
+    {
+        "id": 7,
+        "name": "Opensea Semibuild",
+        "code_url": "https://github.com/kryptcode/opensea-semibuild",
+        "live_project": "https://nmkt.vercel.app",
+        "img": "https://i.ibb.co/w4QdbJp/Screenshot-2022-05-30-at-17-40-58-Screenshot.png",
+        "technologies": ["NextJs", "TailwindCSS", "ThirdWeb", "Infura"]
+    },
 ]
