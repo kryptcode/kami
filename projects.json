@@ -54,5 +54,14 @@
         "live_project": "https://nmkt.vercel.app",
         "img": "https://i.ibb.co/w4QdbJp/Screenshot-2022-05-30-at-17-40-58-Screenshot.png",
         "technologies": ["NextJs", "TailwindCSS", "ThirdWeb", "Infura"]
+    },
+    
+    {
+        "id": 8,
+        "name": "NFTRADER",
+        "code_url": "https://github.com/kryptcode/nftrader",
+        "live_project": "https://nftrader.vercel.app/",
+        "img": "https://i.ibb.co/wrGTq8d/Screenshot-2022-06-06-at-16-22-16-NFTRADER-Home.png",
+        "technologies": ["NextJs", "TailwindCSS", "ThirdWeb"]
     }
 ]
