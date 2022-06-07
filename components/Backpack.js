@@ -33,7 +33,7 @@ const Backpack = () => {
                     Others
                 </h2>
                 <p className='text-gray-300'>Git & Github</p>
-                <p className='text-gray-300'>Wallet Integration</p>
+                <p className='text-gray-300'>Thirdweb</p>
             </div>
         </div>
     </div>
