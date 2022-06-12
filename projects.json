@@ -63,5 +63,14 @@
         "live_project": "https://nftrader.vercel.app/",
         "img": "https://i.ibb.co/wrGTq8d/Screenshot-2022-06-06-at-16-22-16-NFTRADER-Home.png",
         "technologies": ["NextJs", "TailwindCSS", "ThirdWeb"]
+    },
+    
+    {
+        "id": 9,
+        "name": "RE Realtors",
+        "code_url": "https://github.com/kryptcode/real-estate",
+        "live_project": "https://re-realtors.vercel.app/",
+        "img": "https://i.ibb.co/LpPdrW1/Screenshot-2022-06-12-at-09-58-35-Real-Estate.png",
+        "technologies": ["NextJs", "Chakra UI", "framer-motion"]
     }
 ]
