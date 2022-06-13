@@ -21,7 +21,7 @@
         "code_url": "https://github.com/kryptcode/github-users",
         "live_project": "https://vinnyl.vercel.app/",
         "img": "https://i.ibb.co/jL7FKSM/Screenshot-2022-05-19-at-14-51-09-Vinnyl.png",
-        "technologies": ["NextJs", "TailwindCSS", "Firebase"]
+        "technologies": ["Nextjs", "TailwindCSS", "Firebase"]
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "code_url": "https://github.com/kryptcode/github-users",
         "live_project": "https://google-search-je2ewr8em-kryptcode.vercel.app/",
         "img": "https://i.ibb.co/Q8Y1xgd/Screenshot-2022-05-19-at-15-02-25-dogs-Google-Search.png",
-        "technologies": ["NextJs", "TailwindCSS"]
+        "technologies": ["Nextjs", "TailwindCSS"]
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "code_url": "https://github.com/kryptcode/github-users",
         "live_project": "https://airbnb-clone-zeta-nine.vercel.app/",
         "img": "https://i.ibb.co/Kq7DfT2/Screenshot-2022-05-19-at-15-11-03-Airbnb-Clone.png",
-        "technologies": ["NextJs", "TailwindCSS"]
+        "technologies": ["Nextjs", "TailwindCSS"]
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "code_url": "https://github.com/kryptcode/github-users",
         "live_project": "https://disney-plus-psi.vercel.app",
         "img": "https://i.ibb.co/XYCzcbn/Screenshot-2022-05-19-at-14-56-40-Disney.png",
-        "technologies": ["NextJs", "TailwindCSS"]
+        "technologies": ["Nextjs", "TailwindCSS"]
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "code_url": "https://github.com/kryptcode/opensea-semibuild",
         "live_project": "https://nmkt.vercel.app",
         "img": "https://i.ibb.co/w4QdbJp/Screenshot-2022-05-30-at-17-40-58-Screenshot.png",
-        "technologies": ["NextJs", "TailwindCSS", "ThirdWeb", "Infura"]
+        "technologies": ["Nextjs", "TailwindCSS", "ThirdWeb", "Infura"]
     },
     
     {
@@ -62,7 +62,7 @@
         "code_url": "https://github.com/kryptcode/nftrader",
         "live_project": "https://nftrader.vercel.app/",
         "img": "https://i.ibb.co/wrGTq8d/Screenshot-2022-06-06-at-16-22-16-NFTRADER-Home.png",
-        "technologies": ["NextJs", "TailwindCSS", "ThirdWeb"]
+        "technologies": ["Nextjs", "TailwindCSS", "ThirdWeb"]
     },
     
     {
@@ -71,6 +71,15 @@
         "code_url": "https://github.com/kryptcode/real-estate",
         "live_project": "https://re-realtors.vercel.app/",
         "img": "https://i.ibb.co/LpPdrW1/Screenshot-2022-06-12-at-09-58-35-Real-Estate.png",
-        "technologies": ["NextJs", "Chakra UI", "framer-motion"]
+        "technologies": ["Nextjs", "Chakra UI", "framer-motion"]
+    },
+    
+    {
+        "id": 10,
+        "name": "Twitter Clone",
+        "code_url": "https://github.com/kryptcode/twitter-clone",
+        "live_project": "https://twitter-clone-z.vercel.app/",
+        "img": "https://i.ibb.co/stzt3pN/Screenshot-2022-06-13-at-21-29-31-Kami-Shiloh-on-Twitter-Who-am-I.png",
+        "technologies": ["Nextjs", "TailwindCSS", "Firebase", "nextAuth"]
     }
 ]
