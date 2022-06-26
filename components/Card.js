@@ -13,15 +13,6 @@ const Card = ({ item }) => {
           <h4 className='mb-2 text-2xl font-semibold'>
             {name}
           </h4>
-          <div className='space-x-4 text-sm mb-4'>
-            {
-              technologies.map(item => (
-                <button className='py-1 px-3 bg-[#7ee787] text-black rounded-md'>
-                  {item}
-                </button>
-              ))
-            }
-          </div>
         </div>
         </a>
     </div>
